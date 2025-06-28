@@ -9,3 +9,6 @@
 - 1 * 6mm push switch
 - 1 * 5mm LED
 - 1 * PinHeader_1x02_P2.54mm_Vertical
+<img src=3d.png>
+<img src=schemat.png>
+<img src=pcb.png>
