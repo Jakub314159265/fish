@@ -1,4 +1,4 @@
-## Bistable multivibrator that can be reset with light... **FISH**
+## Bistable multivibrator that can be reset with light... and it is a **FISH**
 ## List of parts
 - 3 * 2N3904 transistor
 - 1 * GL5528 photoresistor
